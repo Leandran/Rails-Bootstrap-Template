@@ -1,24 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Created a Rails app using a Bootstrap template
 
-Things you may want to cover:
+The text within the html has been kept the same
 
-* Ruby version
+Technologies and tools:
 
-* System dependencies
+* Ruby on Rails
+* Bootstrap  - Theme source https://startbootstrap.com/theme/creative
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
