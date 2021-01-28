@@ -1,8 +1,9 @@
 # README
 
-Created a Rails app using a Bootstrap template
+Created a Rails app using a Bootstrap template.
 
-The text within the html has been kept the same
+Used the public folder for the bootstrap theme as this was a small file.
+The text within the html has been kept the same.
 
 Technologies and tools:
 
